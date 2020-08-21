@@ -10,7 +10,7 @@
 // 2     2 5
 // 3     3 6
 
-languages['6 dots India'] = {
+languages['6 pontos da Índia'] = {
 	dotMap: {
 		0: {
 			0: 1,

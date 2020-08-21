@@ -11,7 +11,7 @@
 // 3     3 6
 // 4     7 8
 
-languages['old 8 dots'] = {
+languages['8 pontos antigo'] = {
 	dotMap: {
 		0: {
 			0: 4,
