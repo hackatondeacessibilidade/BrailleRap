@@ -1,4 +1,4 @@
-## Braille * Rap *
+## Braille*Rap*
 
 ### Grave Braille com BrailleRap!
 
@@ -10,11 +10,11 @@ línguas indianas devnagari (hindi, marathi, nepali)
 
 ### Contribuição
 
-Você pode modificar e / ou adicionar arquivos de linguagem braille (braille6.js, braille6india.js, braille8new.js, braille8old.js, devnagrinumbers.js).
+Você pode modificar e / ou adicionar arquivos de linguagem braille (braille6Brazil.js, braille6France.js, braille6india.js, braille8new.js, braille8old.js, devnagrinumbers.js).
  
- edite devnagrinumbers.js para números e índices personalizados
+ Edite o arquivo devnagrinumbers.js para números e índices personalizados
 
-Esses são arquivos javascript, não JSON, para poder incluí-los no arquivo index.html ao trabalhar offline sem um servidor.
+Esses são arquivos javascript, não JSON, para poder incluí-los no arquivo index.html e ser possível trabalhar offline sem um servidor.
 
 Qualquer novo arquivo de idioma que respeite este formato será automaticamente levado em consideração. O nome do idioma deve conter '6 pontos' se for baseado em 6 pontos, '8 pontos' se baseado em 8 pontos.
 
@@ -23,7 +23,7 @@ Qualquer novo arquivo de idioma que respeite este formato será automaticamente 
 O presente projeto teve como base o projeto BrailleRapSP com objetivo de promover a acessibilidade por meio do evento Hackaton de Acessibilidade.
 A ORGANIZAÇÃO Elaborando é uma entidade sem fins lucrativos, fundada em 2011, que atua na elaboração e sistematização de metodologias e estratégias para o desenvolvimento social, considerando três campos de atuação:
 o apoio a pessoas com síndrome de Down e suas famílias; a promoção da educação Integral e a sistematização e desenvolvimento metodológico de projetos sociais.
-* Esta iniciativa conta com o apoio da Fundação Ford.*
+Esta iniciativa conta com o apoio da Fundação Ford.
 
 ### Colaboradores
 
